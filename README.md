@@ -8,8 +8,6 @@ Good deal. What's your pleasure?
  * [Statalog](https://Statalog.org "Stats & Data")
  * [](https:// "")
  * [](https:// "")
- * [](https:// "")
- * [](https:// "")
 
 ## Um, this isn't where I meant to be
 
@@ -22,5 +20,5 @@ Maybe you were looking for one of these?...
  * [Statalog](https://Statalog.org "Stats & Data")
  * [](https:// "")
  * [](https:// "")
- * [](https:// "")
- * [](https:// "")
+
+![random image](/img/galler-69-17.jpg)
