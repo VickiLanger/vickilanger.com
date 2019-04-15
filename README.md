@@ -21,4 +21,4 @@ Maybe you were looking for one of these?...
  * [](https:// "")
  * [](https:// "")
 
-![random image](/img/galler-69-17.jpg)
+![random image](/img/gallery-69-17.jpg)
