@@ -18,7 +18,9 @@ Okay, forget the Wizard of Oz quote.
 Maybe you were looking for one of these?...
 
  * [Statalog](https://Statalog.org "Stats & Data")
+ * [Projects for Certification - FreeCodeCamp](https://VickiLanger.com/certprojects.html "Projects for Certs")
  * [](https:// "")
  * [](https:// "")
-
+ * [](https:// "")
+ 
 ![random image](/img/gallery-69-17.jpg)
