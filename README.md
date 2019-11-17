@@ -1,26 +1,34 @@
 # You've found VickiLanger.com
 
 
-## Good, I'm here on purpose
+## Things I need to add to this page
 
-Good deal. What's your pleasure?
+### Links across the web
+* [Vicki's Twitter](twitter.com/Vicki_Langer/ "Vicki's Twitter profile")
+*  [Vicki's Github](github.com/VickiLanger/ "Vicki's Github profile")
+* [Vicki's LinkedIn](linkedin.com/in/victorialanger/ "Vicki's LinkedIn profile")
+* [Vicki's Webwide](webwide.io/members/vickilanger.109/ "Vicki's Webwide profile")
+* [Vicki's Dev.to](dev.to/vickilanger/ "Vicki's Dev.to profile")
 
- * [Statalog](https://Statalog.org "Stats & Data")
- * [](https:// "")
- * [](https:// "")
+### Add sections
+* A bit about me
+*  Blog
+	* "Minutes to read" 
+	* Progress bar something like [this](https://becca9941.github.io "Becca's personal page with an awesome scrolling progress bar") by [@Becca9941](https://twitter.com/Becca9941)
+	* Add blog posts
+	 * Projects
+* Feeds
+		  * Twitter
+		  * Webwide
+		  * Makerlog
+ * Make it pretty
+ * Automate stuffs?
+	 * Can I use [stack edit](https://stackedit.io/ "stack edit") to add to my blog?
+	 * 
 
-## Um, this isn't where I meant to be
 
->Todo, I don't think we're in Kansas anymore.
-
-Okay, forget the Wizard of Oz quote. 
+## Um, this isn't where I wanted to be
 
 Maybe you were looking for one of these?...
 
  * [Statalog](https://Statalog.org "Stats & Data")
- * [Projects for Certification - FreeCodeCamp](https://VickiLanger.com/certprojects.html "Projects for Certs")
- * [](https:// "")
- * [](https:// "")
- * [](https:// "")
- 
-![random image](/img/gallery-69-17.jpg)
