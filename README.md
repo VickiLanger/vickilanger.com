@@ -18,9 +18,9 @@
 	* Add blog posts
 	 * Projects
 * Feeds
-		  * Twitter
-		  * Webwide
-		  * Makerlog
+	* Twitter
+	* Webwide
+	* Makerlog
  * Make it pretty
  * Automate stuffs?
 	 * Can I use [stack edit](https://stackedit.io/ "stack edit") to add to my blog?
