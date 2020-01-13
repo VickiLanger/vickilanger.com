@@ -5,5 +5,3 @@ my_portfolio.md: a introductory page about me and my awesomeness
 @vicki_langer
 """
 ```
-
-Check out my portfolio at [VickiLanger.com]
