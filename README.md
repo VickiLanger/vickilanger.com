@@ -9,7 +9,7 @@ name =  'Vicki'
 language =  'Python'
 framework =  'Django and Bulma'
 
-my_name =  f"Hi there :wave:, I'm {name}."
+my_name =  f"Hi there, I'm {name}."
 what_I_code =  f"I am a writer of {language}. I'm a fan of {framework}"
 
 links_around_web = {
