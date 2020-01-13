@@ -4,8 +4,8 @@ my_portfolio.md: a introductory page about me and my awesomeness
 @vicki_langer
 """
 
-# TODO: Make links clickable
-# TODO: Redo in HTML/CSS to look like my VScode theme
+# TODO: Get a job
+# TODO: use a template tag to pull this file into index
 
 name = 'Vicki'
 language = 'Python'
