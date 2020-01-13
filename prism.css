@@ -11,7 +11,7 @@ pre[class*="language-"] {
 	color: #f8f8f2;
 	background: none;
 	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
-	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-family: Menlo, Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
 	font-size: 1em;
 	text-align: left;
 	white-space: pre;
@@ -40,7 +40,7 @@ pre[class*="language-"] {
 
 :not(pre) > code[class*="language-"],
 pre[class*="language-"] {
-	background: #272822;
+	background: #002451;
 }
 
 /* Inline code */
@@ -58,7 +58,7 @@ pre[class*="language-"] {
 }
 
 .token.punctuation {
-	color: #f8f8f2;
+	color: #ffc58f;
 }
 
 .token.namespace {
@@ -70,12 +70,12 @@ pre[class*="language-"] {
 .token.constant,
 .token.symbol,
 .token.deleted {
-	color: #f92672;
+	color: #d1f1a9;
 }
 
 .token.boolean,
 .token.number {
-	color: #ae81ff;
+	color: #ffc58f;
 }
 
 .token.selector,
@@ -84,7 +84,7 @@ pre[class*="language-"] {
 .token.char,
 .token.builtin,
 .token.inserted {
-	color: #a6e22e;
+	color: #d1f1a9;
 }
 
 .token.operator,
@@ -93,23 +93,23 @@ pre[class*="language-"] {
 .language-css .token.string,
 .style .token.string,
 .token.variable {
-	color: #f8f8f2;
+	color: #99ffff;
 }
 
 .token.atrule,
 .token.attr-value,
 .token.function,
 .token.class-name {
-	color: #e6db74;
+	color: #ffeaed;
 }
 
 .token.keyword {
-	color: #66d9ef;
+	color: #ebbbff;
 }
 
 .token.regex,
 .token.important {
-	color: #fd971f;
+	color: #ff9da4;
 }
 
 .token.important,
@@ -149,22 +149,21 @@ pre[class*="language-"].line-numbers > code {
 	-moz-user-select: none;
 	-ms-user-select: none;
 	user-select: none;
-
 }
 
-	.line-numbers-rows > span {
-		pointer-events: none;
-		display: block;
-		counter-increment: linenumber;
-	}
+.line-numbers-rows > span {
+	pointer-events: none;
+	display: block;
+	counter-increment: linenumber;
+}
 
-		.line-numbers-rows > span:before {
-			content: counter(linenumber);
-			color: #999;
-			display: block;
-			padding-right: 0.8em;
-			text-align: right;
-		}
+.line-numbers-rows > span:before {
+	content: counter(linenumber);
+	color: #999;
+	display: block;
+	padding-right: 0.8em;
+	text-align: right;
+}
 
 .token a {
 	color: inherit;
