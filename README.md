@@ -1,6 +1,3 @@
-# name =  'Vicki'
-
-
 ```python
 """
 my_portfolio.md: a introductory page about me and my awesomeness
