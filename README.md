@@ -22,14 +22,13 @@ links_around_web = {
 
 check_out_these_projects = [
     ('Vets Who Code Twitter Bot', 'http://bit.ly/vetswhocodebot'),
-    ('Statalog', 'https://Statalog.org')
-    ('A future Project', '#')
-    ('Another Project', '#')
+    ('Statalog', 'https://Statalog.org'),
+    ('A future Project', '#'),
 ]
 
 things_written = [
     ('Building the #VetsWhoCode Retweet Bot', 'https://dev.to/vickilanger/vetswhocode-retweet-bot-3j97'),
-    ('Charming the Python series', 'https://dev.to/vickilanger/charming-python-day-1-of-30-4coo')
+    ('Charming the Python series', 'https://dev.to/vickilanger/charming-python-day-1-of-30-4coo'),
 ]
 
 ```
