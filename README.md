@@ -5,6 +5,9 @@ my_portfolio.md: a introductory page about me and my awesomeness
 @vicki_langer
 """
 
+# TODO: Make links clickable
+# TODO: Redo in HTML/CSS to look like my VScode theme
+
 name =  'Vicki'
 language =  'Python'
 framework =  'Django and Bulma'
