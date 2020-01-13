@@ -1,34 +1,41 @@
-# You've found VickiLanger.com
+# name =  'Vicki'
+
+```python
+name =  'Vicki'
+language =  'Python'
+framework =  'Django and Bulma'
+
+my_name =  f"Hi there, I'm {name}."
+what_I_code =  f"I am a writer of {language}. I'm a fan of {framework}"
+
+```
+
+```python
+links_around_web = {
+    'Twitter': 'https://twitter.com/Vicki_Langer',
+    'GitHub': 'https://github.com/VickiLanger',
+    'Dev.to': 'https://dev.to/vickilanger',
+    'LinkedIn': 'https://linkedin.com/in/victorialanger',
+    'WebWide': 'https://webwide.io/members/vickilanger.109',
+}
+
+```
+
+```python
+check_out_these_projects = [
+    ('Vets Who Code Twitter Bot', 'http://bit.ly/vetswhocodebot'),
+    ('Statalog', 'https://Statalog.org')
+    ('A future Project', '#')
+    ('Another Project', '#')
+]
+
+```
 
 
-## Things I need to add to this page
+```python
+things_written = [
+    ('Building the #VetsWhoCode Retweet Bot', 'https://dev.to/vickilanger/vetswhocode-retweet-bot-3j97'),
+    ('Charming the Python series', 'https://dev.to/vickilanger/charming-python-day-1-of-30-4coo')
+]
 
-### Links across the web
-* [Vicki's Twitter](twitter.com/Vicki_Langer/ "Vicki's Twitter profile")
-*  [Vicki's Github](github.com/VickiLanger/ "Vicki's Github profile")
-* [Vicki's LinkedIn](linkedin.com/in/victorialanger/ "Vicki's LinkedIn profile")
-* [Vicki's Webwide](webwide.io/members/vickilanger.109/ "Vicki's Webwide profile")
-* [Vicki's Dev.to](dev.to/vickilanger/ "Vicki's Dev.to profile")
-
-### Add sections
-* A bit about me
-*  Blog
-	* "Minutes to read" 
-	* Progress bar something like [this](https://becca9941.github.io "Becca's personal page with an awesome scrolling progress bar") by [@Becca9941](https://twitter.com/Becca9941)
-	* Add blog posts
-	 * Projects
-* Feeds
-	* Twitter
-	* Webwide
-	* Makerlog
- * Make it pretty
- * Automate stuffs?
-	 * Can I use [stack edit](https://stackedit.io/ "stack edit") to add to my blog?
-	 * 
-
-
-## Um, this isn't where I wanted to be
-
-Maybe you were looking for one of these?...
-
- * [Statalog](https://Statalog.org "Stats & Data")
+```
