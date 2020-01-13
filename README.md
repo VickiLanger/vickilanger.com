@@ -6,4 +6,4 @@ my_portfolio.md: a introductory page about me and my awesomeness
 """
 ```
 
-Check it out at (VickiLanger.com)
+Check it out at VickiLanger.com
