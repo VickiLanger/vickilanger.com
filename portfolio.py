@@ -20,7 +20,7 @@ links_around_web = {
     'Dev.to': 'https://dev.to/vickilanger',
     'LinkedIn': 'https://linkedin.com/in/victorialanger',
     'WebWide': 'https://webwide.io/members/vickilanger.109',
-}
+    }
 
 check_out_these_projects = [
     ('Vets Who Code Twitter Bot', 'http://bit.ly/vetswhocodebot'),
