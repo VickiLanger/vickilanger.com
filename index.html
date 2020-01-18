@@ -31,7 +31,7 @@
       Fetching Portfolio...
     </code>
   </pre>
-  
+
   <script>
     fetch("/portfolio.py")
       .then(response => {
@@ -43,5 +43,6 @@
       .then(text => document.getElementById("portfolio-code").innerText = text)
       .catch(errror => document.getElementById("portfolio-code").innerText = "Unable to fetch portfolio, try again later")
   </script>
+  <script src="prism.js" type="text/javascript"></script>
 </body>
 </html>
