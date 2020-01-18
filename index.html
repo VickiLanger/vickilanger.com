@@ -27,44 +27,21 @@
 <body>
   <header data-plugin-header="line-numbers"></header>
   <pre>
-    <code class="language-python match-braces">
-      <!-- TODO: extend porfolio.py to fill to this <code> box -->
-      """
-      my_portfolio.py: a introductory page about me and my awesomeness
-      13 January 2020
-      @vicki_langer
-      """
-      
-      # TODO: get a job
-      
-      name = 'Vicki'
-      language = 'Python'
-      framework = 'Django and Bulma'
-      
-      print(f"Hi there, I'm {name}.")
-      print(f"I am a writer of {language}. I'm a fan of {framework}")
-      
-      links_around_web = {
-          'Twitter': 'https://twitter.com/Vicki_Langer',
-          'GitHub': 'https://github.com/VickiLanger',
-          'Dev.to': 'https://dev.to/vickilanger',
-          'LinkedIn': 'https://linkedin.com/in/victorialanger',
-          'WebWide': 'https://webwide.io/members/vickilanger.109',
-          }
-      
-      check_out_these_projects = [
-          ('Vets Who Code Twitter Bot', 'http://bit.ly/vetswhocodebot'),
-          ('Statalog', 'https://Statalog.org'),
-          ('A future Project', '#'),
-          ]
-      
-      things_written = [
-          ('Building the #VetsWhoCode Retweet Bot', 'https://dev.to/vickilanger/vetswhocode-retweet-bot-3j97'),
-          ('Charming the Python series', 'https://dev.to/vickilanger/charming-python-day-1-of-30-4coo'),
-          ]
-      
+    <code class="language-python match-braces" id="portfolio-code">
+      Fetching Portfolio...
     </code>
   </pre>
-
+  
+  <script>
+    fetch("/portfolio.py")
+      .then(response => {
+        if(!response.ok) {
+          throw new Error("Bad Response")
+        }
+        return response.text()
+      })
+      .then(text => document.getElementById("portfolio-code").innerText = text)
+      .catch(errror => document.getElementById("portfolio-code").innerText = "Unable to fetch portfolio, try again later")
+  </script>
 </body>
 </html>
