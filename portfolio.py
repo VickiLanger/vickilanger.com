@@ -24,8 +24,8 @@ links_around_web = {
 
 check_out_these_projects = [
     ('Vets Who Code Twitter Bot', 'http://bit.ly/vetswhocodebot'),
+    ('Code Questions Twitter Bot', 'https://github.com/VickiLanger/code-questions-bot'),
     ('Statalog', 'https://Statalog.org'),
-    ('A future Project', '#'),
     ]
 
 things_written = [
